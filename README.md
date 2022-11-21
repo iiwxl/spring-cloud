@@ -1,2 +1,1 @@
-# spring-cloud
-springboot练习
+value2: application.yml
